@@ -9,7 +9,7 @@ a.social {
     background-clip: initial;
   
     &[aria-label='tiktok'] {
-      --bg-img: url(../assets/icons/tiktok);
+      --bg-img: url(../assets/icons/tiktok.svg);
   
       &:hover {
         --bg-img: url(../assets/icons/tiktok-hover.svg);
