@@ -1,4 +1,4 @@
-# Projeto guiado - Lamding Page de Produto
+# Projeto guiado - Landing Page de Produto
 
 #### Foi desenvolvido uma página responsiva no modelo mobile first, utilizando media queries.
 
